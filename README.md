@@ -1,1 +1,1 @@
-This is my first game. It currently isn't done yet, so please if you have any suggestions let me know!
+This is my first game. It currently isn't done yet, so please if you have any suggestions let me know! This is currently in debug mode, so you are able to press the "T" key to give yourself 3000 star remants. This is for debug purposes only, however I won't stop you from using it in your gameplay. It WILL NOT be in the final version.
